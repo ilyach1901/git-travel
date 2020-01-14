@@ -1,0 +1,98 @@
+@media(max-width:700px){
+    .header-info h1{
+        font-size: 20px;
+        color: red;
+    }
+    .header-info h1 span{
+        font-size: 20px;
+        
+    }
+    .row a{
+        font-size: 25px;
+        color:coral;
+        
+    }
+    .header-content span{
+        font-size: 25px;
+        color:cornflowerblue;
+    }
+    .header-info p{
+        font-size: 15px;
+        color:mediumpurple;
+    }
+    .header-form p{
+        font-size: 15px;
+        color:forestgreen;
+    }
+    
+    .tours-conutry h2{
+        font-size: 30px;
+        color: green;
+    }
+    .tours-conutry span{
+        font-size: 20px;
+        color:purple;
+    }
+    .places h2{
+        font-size: 30px;
+        color:orange;
+    }
+    .places p{
+        font-size: 15px;
+        color:aqua;
+    }
+    .documents h2{
+        font-size: 25px;
+        color:brown;
+    }
+    .documents p{
+        font-size: 15px;
+        color:chartreuse;
+    }
+    .documents span{
+        font-size: 15px;
+        color:deeppink;
+    }
+    .documents li{
+        font-size: 15px;
+        color:gold;
+    }
+    .best-tours h2{
+        font-size: 30px;
+        color:indianred;
+    }
+    .best-tours p{
+        font-size: 15px;
+        color:mediumaquamarine;
+    }
+    .reviews h2{
+        font-size: 30px;
+        color:mediumorchid;
+    }
+    .reviews p{
+        font-size: 15px;
+        color:olive;
+    }
+    .review p{
+        font-size: 15px;
+        color:tomato;
+    }
+    .contacts a{
+        font-size: 15px;
+        color:orangered;
+    }
+    .social-networks p{
+        font-size: 15px;
+        color:limegreen;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+
+   
+}
